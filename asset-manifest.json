@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/html-simple-landingpage1/static/css/main.ab1c9c1c.css",
+    "main.js": "/html-simple-landingpage1/static/js/main.f62578cf.js",
+    "static/media/room.jpg": "/html-simple-landingpage1/static/media/room.fe8637ffd775a51a8de8.jpg",
+    "static/media/abster-webfont.woff": "/html-simple-landingpage1/static/media/abster-webfont.559514b67dd2557bda83.woff",
+    "index.html": "/html-simple-landingpage1/index.html",
+    "main.ab1c9c1c.css.map": "/html-simple-landingpage1/static/css/main.ab1c9c1c.css.map",
+    "main.f62578cf.js.map": "/html-simple-landingpage1/static/js/main.f62578cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab1c9c1c.css",
+    "static/js/main.f62578cf.js"
+  ]
+}
